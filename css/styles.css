@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #6C63FF;
+  color: #343a40;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #343a40;
   text-decoration: underline;
 }
 
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #6C63FF !important;
+  color: #343a40 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10107,7 +10107,7 @@ p.lead {
   font-size: 3rem;
 }
 .dev-icon{
-  color: #6C63FF;
+  color: #141313;
 }
 
 section.resume-section {
